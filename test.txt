@@ -1,1 +1,2 @@
 this is my first text file
+This is my amendment to the file
